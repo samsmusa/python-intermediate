@@ -1,0 +1,3 @@
+Using NumPy's np.arange() Effectively
+NumPy arange(): How to Use np.arange()
+Look Ma, No For-Loops: Array Programming With NumPy

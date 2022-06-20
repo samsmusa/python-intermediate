@@ -1,0 +1,10 @@
+Why Is It Important to Close Files in Python?
+Python's zipfile: Manipulate Your ZIP Files Efficiently
+Build a Bulk File Rename Tool With Python and PyQt
+Python mmap: Improved File I/O With Memory Mapping
+Create and Modify PDF Files in Python
+Reading and Writing Files in Python
+Reading and Writing Files in Python (Guide)
+Python 3's pathlib Module: Taming the File System
+Python Zip Imports: Distribute Modules and Packages Quickly
+Python's zipapp: Build Executable Zip Applications

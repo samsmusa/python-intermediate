@@ -1,0 +1,12 @@
+Python's assert: Debug and Test Your Code Like a Pro
+Python Debugging With pdb
+Python Debugging With Pdb
+Testing Your Code With pytest
+Effective Python Testing With Pytest
+Getting Started With Testing in Python
+Headless Selenium Testing with Python and PhantomJS
+
+
+Improve Your Tests With the Python Mock Object Library
+Test-Driven Development With PyTest
+The Minimum Viable Test Suite

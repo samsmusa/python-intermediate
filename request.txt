@@ -1,0 +1,3 @@
+Python's urllib.request for HTTP Requests
+Making HTTP Requests With Python
+Python’s Requests Library (Guide)
