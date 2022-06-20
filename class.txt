@@ -81,7 +81,6 @@ Inheritance and Composition: A Python OOP Guide
 Inheritance and Composition: A Python OOP Guide
 Intro to Object-Oriented Programming (OOP) in Python
 Pythonic OOP String Conversion: __repr__ vs __str__
-
 Using Python Class Constructors
 Python Class Constructors: Control Your Object Instantiation
 Providing Multiple Constructors in Your Python Classes
