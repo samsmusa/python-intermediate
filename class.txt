@@ -12,9 +12,46 @@ Python args and kwargs: Demystified
 
 Absolute vs Relative Imports in Python
 Absolute vs Relative Imports in Python
+Python import: Advanced Techniques and Tips
+
+
+Python vs Java: Object Oriented Programming
+Serializing Objects With the Python pickle Module
+Pointers and Objects in Python
+The Python pickle Module: How to Persist Objects in Python
+Object-Oriented Programming in Python vs Java
+Understanding the Python Mock Object Library
+
+
+Introduction to Git and GitHub for Python Developers
+
+Write Pythonic and Clean Code With namedtuple
+Writing Cleaner Python Code With PyLint
+Writing Beautiful Pythonic Code With PEP 8
+How to Write Beautiful Python Code With PEP 8
+
+
+Python Development in Visual Studio Code
+Python Development in Visual Studio Code (Setup Guide)
+
+Defining Main Functions in Python
+
+
+Immutability in Python
+
+
 
 How to Use Python Lambda Functions
 How to Use Python Lambda Functions
+
+Python '!=' Is Not 'is not': Comparing Objects in Python
+Comparing Python Objects the Right Way: "is" vs "=="
+
+
+Python Scope & the LEGB Rule: Resolving Names in Your Code
+
+Evaluate Expressions Dynamically With Python eval()
+Python eval(): Evaluate Expressions Dynamically
 
 How to Build Command Line Interfaces in Python With argparse
 Comparing Python Command-Line Parsing Libraries – Argparse, Docopt, and Click

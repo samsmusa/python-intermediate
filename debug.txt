@@ -10,3 +10,6 @@ Headless Selenium Testing with Python and PhantomJS
 Improve Your Tests With the Python Mock Object Library
 Test-Driven Development With PyTest
 The Minimum Viable Test Suite
+
+Dependency Management With Python Poetry
+Managing Python Dependencies

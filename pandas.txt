@@ -21,6 +21,16 @@ Reading and Writing CSV Files in Python
 
 Generating Random Data in Python (Guide)
 
+Editing Excel Spreadsheets in Python With openpyxl
+A Guide to Excel Spreadsheets in Python With openpyxl
+
+Python Dictionary Iteration: Advanced Tips & Tricks
+How to Iterate Through a Dictionary in Python
+
+Python's ChainMap: Manage Multiple Contexts Effectively
+Context Managers and Python's with Statement
+Python Context Managers and the "with" Statement
+
 Python Statistics Fundamentals: How to Describe Your Data
 Data Engineer Interview Questions With Python
 
