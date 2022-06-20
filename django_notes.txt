@@ -1,0 +1,100 @@
+djnago Features:
+  * The admin site
+  * Object Relational Mapper
+  * Authentication
+  * Caching
+
+Start Project Command
+  >>> django-admin startproject storefont (create new dir storefont)
+  >>> django-admin startproject storefont . (use current dir)
+
+djnago-admin and manage.py both are have same command.
+but manage.py use the project specification
+
+  >>> python manage.py runserver 
+  >>> python manage.py runserver 9000 (optinal port number)
+
+run python interpreter from virtual enviroment
+
+  >>> pipenv --venv
+
+Then Crlt+p enter select python interpreter
+
+
+# Creating New-app
+
+  INSTALLED_APPS = [
+    'djnago.contrib.admin',
+    'djnago.contrib.auth',
+    'djnago.contrib.contenttypes',
+    'djnago.contrib.sessions',
+    'djnago.contrib.messages',
+    'djnago.contrib.staticfiles',
+  ]
+
+  djnago.contrib.admin
+    This app manage all data for admin
+
+  djnago.contrib.auth 
+    This app authenticate user
+  
+  djnago.contrib.sessions
+    One kind of legecy This app manage user data in server as temporary memory
+
+  django.contrib.messages
+    This app one time notification to the user
+  
+  django.contrib.staticfiles
+    This app manage static files for our development 
+
+Create new app command
+
+ >>> python manage.py startapp playground
+
+  > migrations
+  __init__.py 
+  admin.py 
+  apps.py 
+  models.py 
+  tests.py 
+  views.py 
+
+  migrations
+
+    migrations for generating database table 
+
+  admin
+
+    how admin interface for this app look like ?
+  
+  apps 
+
+    where we configure our app 
+
+  models 
+
+    for creating database table and pull data from database 
+
+  test 
+
+    for unit testing 
+
+  views
+
+    request handler
+
+register this app on settings
+
+  INSTALLED_APPS = [
+    'djnago.contrib.admin',
+    'djnago.contrib.auth',
+    'djnago.contrib.contenttypes',
+    'djnago.contrib.sessions',
+    'djnago.contrib.messages',
+    'djnago.contrib.staticfiles',
+    'playground',
+  ]
+
+#views
+
+ 
